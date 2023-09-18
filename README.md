@@ -2,7 +2,7 @@
 
 ## Part One - Prior Project Analysis
 
-For our project 1, we conducted an analysis and scored five prior projects. These projects, namely MyDollarBot, ScheduleBot, Feature Hunt, Auto Anki, and GIT-Simplified, were assessed based on various criteria outlined in the project rubric. You can access this rubrics by following this link: [Rubrics]().
+For our project 1, we conducted an analysis and scored five prior projects. These projects, namely MyDollarBot, ScheduleBot, Feature Hunt, Auto Anki, and GIT-Simplified, were assessed based on various criteria outlined in the project rubric. You can access this rubrics by following this link: [Rubrics](https://github.com/agmalpur/SE_Project_Group_32/blob/main/Rubrics.md).
 
 ## Part Two - Demonstration Video
 
